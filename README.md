@@ -1,2 +1,2 @@
-# Machine-Learning-Project-3
+# Machine-Learning-Project
 K-means Clustering Implementation on Iris Dataset
